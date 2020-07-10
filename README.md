@@ -2,6 +2,7 @@
 
 #### 介绍
 HEU Computer system structure experiment based on windlx
+随机输入n个数，求数i的概率
 
 #### 使用说明
 
